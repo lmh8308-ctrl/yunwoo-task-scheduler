@@ -1,0 +1,39 @@
+{
+    "2026-10-25": [
+        {
+            "id": "2026-10-25_fixed_1",
+            "title": "최상위 수학 문제집 풀기",
+            "type": "매일 당일 완료",
+            "completed": false,
+            "category": "고정"
+        },
+        {
+            "id": "2026-10-25_fixed_2",
+            "title": "영어책 리딩",
+            "type": "매일 당일 완료",
+            "completed": false,
+            "category": "고정"
+        },
+        {
+            "id": "2026-10-25_fixed_3",
+            "title": "퍼플 학습",
+            "type": "일주일 목표",
+            "completed": false,
+            "category": "고정"
+        },
+        {
+            "id": "2026-10-25_fixed_4",
+            "title": "한글책 읽기",
+            "type": "매일 당일 완료",
+            "completed": false,
+            "category": "고정"
+        },
+        {
+            "id": "2026-10-25_fixed_5",
+            "title": "국어 독해 2개 단원",
+            "type": "일주일 목표",
+            "completed": false,
+            "category": "고정"
+        }
+    ]
+}
